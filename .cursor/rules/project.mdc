@@ -1,0 +1,13 @@
+---
+description: PraiseWall testimonial platform conventions
+globs: **/*
+---
+
+# PraiseWall Project Rules
+
+- Stack: React (Vite) + Express + SQLite
+- Project root: E:\Projects\testimonial-platform
+- P0 first: submit → dashboard → wall must work end-to-end
+- No auth, no multi-tenant, no email — per assignment brief
+- API JSON uses camelCase; DB uses snake_case
+- Keep diffs minimal; match existing code style
